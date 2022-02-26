@@ -4,3 +4,6 @@ Comparative Sequence Analysis of Covid19 using BioPython. Compared Covid19 with 
 
 # Covid 19 3-D Structure
 <img width="262" alt="Screenshot 2022-02-26 at 4 19 34 PM" src="https://user-images.githubusercontent.com/83464019/155850761-43f70cbe-8162-430a-b693-4223f1756bda.png">
+
+# Sars 3-D Structure
+<img width="228" alt="Screenshot 2022-02-26 at 4 20 11 PM" src="https://user-images.githubusercontent.com/83464019/155850778-7aba44db-6396-4443-b890-4d92df8068e4.png">
